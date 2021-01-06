@@ -1,4 +1,7 @@
+![Photo](https://unsplash.com/photos/rfg4l6_lu3c/download?force=true&w=640)
 ### Hi there 👋
+
+I'm Alan - a self-taught software developer. My first introduction to programming was using Java and I was drawn toward web development. I started learning HTML, CSS and JavaScript and building projects. I'm currently strengthening my JS skills and developing my personal projects using React.
 
 <!--
 **alan-nguyen/alan-nguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
